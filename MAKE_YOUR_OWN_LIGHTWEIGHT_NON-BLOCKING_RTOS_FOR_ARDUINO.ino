@@ -1,3 +1,10 @@
+/*
+Make your own lightweight non-blocking RTOS for Arduino
+Author: Patrick NDAYIKUNDA
+Date: 17/08/2023
+
+*/
+
 void task1(void){
   Serial.println("I'm running as task 1");
 }
